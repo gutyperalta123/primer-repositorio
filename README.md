@@ -27,6 +27,3 @@ Frontend Moderno: React, Angular y Bootstrap.
 Infraestructura & Datos: AWS, SQL y MongoDB.
 
 Especialización: Ciberseguridad y protección de datos.
-
-👨‍💻 Sobre el Autor
-Gustavo Peralta – Desarrollador Full Stack. Este repositorio es el punto de partida de una carrera marcada por la disciplina (10 años en la Policía) y la búsqueda constante de excelencia técnica en el Instituto Tecnológico de Santiago del Estero.
